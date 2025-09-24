@@ -33,3 +33,6 @@ Utilizado para transferência de dados entre subsistemas da aplicação, melhora
 JDBC
 API para conexão e execução de operações no banco de dados MySQL
 
+
+Desenvolvedores:
+Isaac Ramos e Jorge Cardoso de Jesus
